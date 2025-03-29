@@ -7,12 +7,13 @@ Este projeto fornece uma implementação de cálculos estatísticos em Ruby, inc
 O projeto está organizado da seguinte forma:
 
 ```
-/statistica
+/estatistica
   |-- base_estatistica.rb  # Classe principal para cálculos estatísticos
   |-- calculo_factory.rb   # Fábrica para selecionar diferentes cálculos
   |-- coeficiente_variacao.rb # Cálculo do coeficiente de variação
   |-- distribuicao_normal.rb  # Cálculo da distribuição normal
   |-- variancia.rb  # Cálculo de variância e desvio padrão
+|-- app.rb #Ponto de entrada do aplicativo
 ```
 
 ## Funcionalidades
